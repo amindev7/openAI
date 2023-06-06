@@ -1,1 +1,1 @@
-# openAi
+# openAI
